@@ -1,0 +1,39 @@
+/Art/2DArt/Fonts/Fontin-Regular.ttf
+/Art/2DArt/Fonts/Fontin-SmallCaps.ttf
+/Art/2DArt/Fonts/Fontin-Bold.ttf
+/Art/2DArt/Fonts
+/Art/2DArt
+/Art
+/Data/BaseItemTypes.dat
+/Data/Quest.dat
+/Data/PassiveSkills.dat
+/Data/NPCTextAudio.dat
+/Data/QuestStates.dat
+/Data/ActiveSkills.dat
+/Data/Chests.dat
+/Data/CurrencyItems.dat
+/Data/Characters.dat
+/Data
+/Audio/Sound Effects/ItemSounds/gem.ogg
+/Audio/Sound Effects/ItemSounds
+/Audio/Sound Effects
+/Audio
+/Metadata/gem_stat_descriptions.txt
+/Metadata/tips.txt
+/Metadata/minion_spell_skill_stat_descriptions.txt
+/Metadata/minion_attack_skill_stat_descriptions.txt
+/Metadata/multiple_target_skill_stat_descriptions.txt
+/Metadata/active_skill_gem_stat_descriptions.txt
+/Metadata/stat_descriptions.txt
+/Metadata/UI/named_colours.txt
+/Metadata/UI/Common.ui
+/Metadata/UI
+/Metadata/curse_skill_stat_descriptions.txt
+/Metadata/passive_skill_stat_descriptions.txt
+/Metadata/monster_stat_descriptions.txt
+/Metadata/character_panel_stats_descriptions.txt
+/Metadata/minion_skill_stat_descriptions.txt
+/Metadata/skill_stat_descriptions.txt
+/Metadata/map_stat_descriptions.txt
+/Metadata/aura_skill_stat_descriptions.txt
+/Metadata
